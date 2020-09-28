@@ -1,0 +1,6 @@
+nbgitpuller
+
+numpy
+matplotlib
+sympy
+jupyter_contrib_nbextensions
