@@ -1,3 +1,4 @@
+conda activate myenv
 jupyter serverextension enable --py nbgitpuller --sys-prefix
 
 jupyter contrib nbextension install --sys-prefix
